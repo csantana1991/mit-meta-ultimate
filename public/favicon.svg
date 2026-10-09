@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" role="img" aria-label="MIT Meta Ultimate">
+  <rect width="32" height="32" rx="7" fill="#100e0c"/>
+  <circle cx="16" cy="16" r="12.25" fill="#A31F34"/>
+  <circle cx="16" cy="16" r="10.15" fill="#100e0c"/>
+  <path fill="#f3ece4" d="M8.2 12.1c.55 1.45.85 3.05.85 4.7s-.3 3.25-.85 4.7h6.55c.28-1.5.45-3.08.45-4.7s-.17-3.2-.45-4.7H8.2z"/>
+  <path fill="#f3ece4" d="M23.8 12.1c-.55 1.45-.85 3.05-.85 4.7s.3 3.25.85 4.7h-6.55c-.28-1.5-.45-3.08-.45-4.7s.17-3.2.45-4.7h6.55z"/>
+  <rect x="15.35" y="11.7" width="1.3" height="10.2" rx="0.3" fill="#A31F34"/>
+</svg>
